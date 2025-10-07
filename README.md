@@ -83,7 +83,8 @@ Supports HR decision-making to improve retention and engagement.
 • Strategic Planning: Supported HR management in making data-backed decisions to reduce turnover costs and improve employee retention.
 
 6. Screenshots / Demos
-![HR Dark Mode](https://github.com/Suchandrapalkundu/HR-Analytics-Dashboard/blob/main/HR_Dark.png)
+
+![HR Dark Mode](https://github.com/Suchandrapalkundu/HR-Analytics-Dashboard/blob/main/HR_Dark.png) 
 
 ![HR Light Mode](https://github.com/Suchandrapalkundu/HR-Analytics-Dashboard/blob/main/HR_Light.png)
 
