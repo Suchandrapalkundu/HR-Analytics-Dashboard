@@ -48,13 +48,13 @@ High employee attrition leads to increased recruitment costs, lower morale, and 
 
 2️⃣ Goal of the Dashboard
 
-To develop an interactive analytical tool that:
+• To develop an interactive analytical tool that:
 
-Monitors overall attrition and satisfaction trends.
+• Monitors overall attrition and satisfaction trends.
 
-Identifies patterns by department, age group, and education field.
+• Identifies patterns by department, age group, and education field.
 
-Supports HR decision-making to improve retention and engagement.
+• Supports HR decision-making to improve retention and engagement.
 
 3️⃣ Walkthrough of Key Visuals
 
