@@ -18,6 +18,7 @@ It provides a centralized visual view to identify trends in attrition, analyze r
 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Primary platform for data visualization and interactive reporting.
 • 📂 Power Query – For data cleaning, transformation, and shaping.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and conditional logic.
