@@ -20,11 +20,17 @@ It provides a centralized visual view to identify trends in attrition, analyze r
 The dashboard was built using the following tools and technologies:
 
 • 📊 Power BI Desktop – Primary platform for data visualization and interactive reporting.
+
 • 📂 Power Query – For data cleaning, transformation, and shaping.
+
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and conditional logic.
+
 • 🧾 Microsoft Excel – Used for preliminary data preparation, filtering, and summarization.
+
 • 🧮 SQL – Utilized to query, extract, and aggregate HR data from databases.
+
 • 📝 Data Modeling – Established relationships among multiple HR data tables (employees, satisfaction, attrition).
+
 • 📁 File Format – .pbix for the Power BI report and .png for dashboard visuals.
 
 4. Data Source
